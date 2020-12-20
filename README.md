@@ -1,7 +1,6 @@
 # CompteBancaire
 
-Les Routes : /login
-
-
-             /register
+Les Routes : 
+            /login
+            /register
              
